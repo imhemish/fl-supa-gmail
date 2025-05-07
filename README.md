@@ -33,8 +33,9 @@ Google IDs are from Google Cloud Console (OAuth credentials).
 - main.dart - starting point
 - app.dart - theme and app layout
 - env.dart.example - for putting your API keys (copy to env.dart)
-- folders:
 
-config - theme, constants, routes
-data - models, providers, and supabase stuff
-presentation - UI screens and widgets
+### folders:
+
+- config - theme, constants, routes
+- data - models, providers, and supabase stuff
+- presentation - UI screens and widgets
